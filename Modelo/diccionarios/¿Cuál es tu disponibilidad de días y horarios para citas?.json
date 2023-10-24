@@ -1,0 +1,13 @@
+{
+    "Cualquier día temprano": 1,
+    "Cualquier día | Cualquier hora": 2,
+    "Cualquier día por la tarde": 3,
+    "Fines de semana por la tarde": 4,
+    "Fines de semana temprano": 5,
+    "nan": 6,
+    "Entre semana temprano": 7,
+    "Fines de semana en la noche": 8,
+    "Entre semana por la tarde": 9,
+    "Entre semana en la noche": 10,
+    "Cualquier día en la noche": 11
+}
